@@ -12,6 +12,7 @@ nginxWebUI <= 3.5.0
 </a-typography-paragraph>
 
 ## 漏洞复现
+<img width="1440" alt="image" src="https://github.com/b1llow/knowledge/assets/142713919/728750e0-79f1-4449-ab2e-810fc6593df5">
 
 
 ## POC&EXP
